@@ -1,4 +1,4 @@
-arduinolabs
+m-wand
 ===========
 
-For NSTU students to place the code during Arduino course.
+wand -m
